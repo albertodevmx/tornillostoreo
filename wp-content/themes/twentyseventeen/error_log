@@ -1,0 +1,13 @@
+[05-Aug-2017 04:38:37 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/hmediahosting/tornillostoreo.com/wp-content/themes/twentyseventeen/404.php on line 13
+[05-Aug-2017 20:47:24 America/Chicago] PHP Fatal error:  Call to undefined function get_template_part() in /home/hmediahosting/tornillostoreo.com/wp-content/themes/twentyseventeen/footer.php on line 22
+[22-Sep-2017 20:52:59 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/hmediahosting/tornillostoreo.com/wp-content/themes/twentyseventeen/404.php on line 13
+[29-Sep-2017 00:15:56 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/hmediahosting/tornillostoreo.com/wp-content/themes/twentyseventeen/404.php on line 13
+[18-Oct-2017 05:12:39 America/Chicago] PHP Fatal error:  Call to undefined function get_template_part() in /home/hmediahosting/tornillostoreo.com/wp-content/themes/twentyseventeen/footer.php on line 22
+[21-Oct-2017 15:08:59 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/hmediahosting/tornillostoreo.com/wp-content/themes/twentyseventeen/404.php on line 13
+[29-Oct-2017 04:53:02 America/Chicago] PHP Fatal error:  Call to undefined function get_template_part() in /home/hmediahosting/tornillostoreo.com/wp-content/themes/twentyseventeen/footer.php on line 22
+[31-Oct-2017 08:37:19 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/hmediahosting/tornillostoreo.com/wp-content/themes/twentyseventeen/404.php on line 13
+[04-Nov-2017 20:10:18 America/Chicago] PHP Fatal error:  Call to undefined function get_template_part() in /home/hmediahosting/tornillostoreo.com/wp-content/themes/twentyseventeen/footer.php on line 22
+[06-Nov-2017 06:03:18 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/hmediahosting/tornillostoreo.com/wp-content/themes/twentyseventeen/404.php on line 13
+[26-Nov-2017 14:58:31 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/hmediahosting/tornillostoreo.com/wp-content/themes/twentyseventeen/404.php on line 13
+[05-Dec-2017 12:33:14 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/hmediahosting/tornillostoreo.com/wp-content/themes/twentyseventeen/404.php on line 13
+[27-Dec-2017 08:06:27 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/hmediahosting/tornillostoreo.com/wp-content/themes/twentyseventeen/404.php on line 13

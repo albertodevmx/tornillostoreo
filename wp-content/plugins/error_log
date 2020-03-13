@@ -1,0 +1,4 @@
+[07-Oct-2017 19:52:40 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/hmediahosting/tornillostoreo.com/wp-content/plugins/hello.php on line 60
+[16-Nov-2017 02:42:06 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/hmediahosting/tornillostoreo.com/wp-content/plugins/hello.php on line 60
+[19-Nov-2017 08:26:03 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/hmediahosting/tornillostoreo.com/wp-content/plugins/hello.php on line 60
+[19-Nov-2017 15:08:29 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/hmediahosting/tornillostoreo.com/wp-content/plugins/hello.php on line 60
